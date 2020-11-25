@@ -1,4 +1,4 @@
-# saurabh-kumar-portfolio
-first coded website 
-This is my personal portfolio in making. I am 25 and I have just strarted learning programming beacuse I am bored at home 
-binging netflix all the time.
+# student portfolio
+
+Hey! welcome to my portfolio. 
+I am soon gonna be adding new stuff here when i learn HTML and CSS from tanay pratap.
